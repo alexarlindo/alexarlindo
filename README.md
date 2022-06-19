@@ -49,5 +49,8 @@ I'm a novice Mozambican front-end developer.
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="python" alt="paython" width="40" height="40">
   </div>
 
+---
+
+### :writing_hand: I really like meeting new people to do projects, if you want to do one, send me an email, I'll be happy to meet you and we'll develop a project together🚀
 
 
