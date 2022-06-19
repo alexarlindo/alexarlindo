@@ -19,8 +19,8 @@
 
 
 <h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/>
+  hey there👋
+
 </h1>
 <div align="center">
 <img src="images/Web_Programmer_01_generated.jpg" width="600" height="300">
@@ -29,11 +29,11 @@
 ---
 
 ### :woman_technologist: About Me :
-I'm a novice Mozambican front-end developer.
-- :telescope: I'm learning front-end development and intend to contribute to Open source projects.
-- :seedling:bexploring content to improve my domain in CSS3.
+I'm a novice Mozambican front-end developer🙃.
+- :telescope: I'm learning front-end development and intend to contribute to Open source projects💜💙.
+- :seedling: exploring content to improve my domain in CSS3🤸🏃.
 
-- :zap: in my free time I like to read, and solve challenges in Devchallenge-br.
+- :zap: in my free time I like to read, and solve challenges in Devchallenge-br🏅📌.
 
     <p>coming soon:</p>
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
