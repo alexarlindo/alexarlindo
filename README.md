@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="vecteezy_programmer-people-concept-use-laptop-and-programming-code_-removebg.png">
+    <img src="images/vecteezy_programmer-people-concept-use-laptop-and-programming-code_-removebg.png">
 </div>
 
 <p>coming soon:</p>
