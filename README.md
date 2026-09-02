@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Somewhere+between+a+nerd+and+a+geek;Sempre+curioso+o+suficiente+para+construir+algo+novo;Full+Stack+Developer+em+constru%C3%A7%C3%A3o" alt="Typing SVG" /></a>
+<a href="https://github.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Somewhere+between+a+nerd+and+a+geek;" alt="Typing SVG" /></a>
 
 <br>
 
