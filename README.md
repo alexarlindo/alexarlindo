@@ -1,6 +1,16 @@
 <div align="center">
 
-<a href="https://github.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Somewhere+between+a+nerd+and+a+geek;" alt="Typing SVG" /></a>
+<img src="https://img.shields.io/badge/💬_Brave_New_World.-1c1c1f?style=for-the-badge&labelColor=1c1c1f" alt="Brave New World" />
+
+<br><br>
+
+<img src="https://images.weserv.nl/?url=github.com/user-attachments/assets/de95316f-5ddc-46ae-a0c6-beadd623ad75&w=280&h=280&fit=cover&mask=circle&maxage=7d" width="160" height="160" alt="HD" />
+
+### HD ツ
+
+<br>
+
+<a href="https://github.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Somewhere+between+a+nerd+and+a+geek;Sempre+curioso+o+suficiente+para+construir+algo+novo;Full+Stack+Developer+em+constru%C3%A7%C3%A3o" alt="Typing SVG" /></a>
 
 <br>
 
@@ -15,7 +25,6 @@
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 <img src="https://img.shields.io/badge/Atlassian-0052CC?style=flat-square&logo=atlassian&logoColor=white" alt="Atlassian">
-
 
 <br>
 
