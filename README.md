@@ -2,7 +2,6 @@
 
 <img src="https://img.shields.io/badge/💬_Brave_New_World.-1c1c1f?style=for-the-badge&labelColor=1c1c1f" alt="Brave New World" />
 <br><br>
-<img src="https://images.weserv.nl/?url=github.com/user-attachments/assets/bea3868a-6359-41f8-b705-566b46a97b7c&w=280&h=280&fit=cover&mask=circle&maxage=7d" width="160" height="160" alt="HD" />
 
 ### HD ツ
 
