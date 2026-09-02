@@ -1,17 +1,13 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/💬_Brave_New_World.-1c1c1f?style=for-the-badge&labelColor=1c1c1f" alt="Brave New World" />
-
 <br><br>
-
-<img src="<img width="1086" height="1448" alt="WhatsApp Image 2026-08-30 at 19 53 22" src="https://github.com/user-attachments/assets/bea3868a-6359-41f8-b705-566b46a97b7c" />
-&w=280&h=280&fit=cover&mask=circle&maxage=7d" width="160" height="160" alt="HD" />
+<img src="https://images.weserv.nl/?url=github.com/user-attachments/assets/bea3868a-6359-41f8-b705-566b46a97b7c&w=280&h=280&fit=cover&mask=circle&maxage=7d" width="160" height="160" alt="HD" />
 
 ### HD ツ
 
 <br>
 
-<a href="https://github.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Somewhere+between+a+nerd+and+a+geek;Sempre+curioso+o+suficiente+para+construir+algo+novo;Full+Stack+Developer+em+constru%C3%A7%C3%A3o" alt="Typing SVG" /></a>
 
 <br>
 
