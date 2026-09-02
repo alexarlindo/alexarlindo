@@ -1,29 +1,36 @@
 <div align="center">
 
-# HD ツ
-
-<i>Somewhere between a nerd and a geek — but always curious enough to build something new.</i>
+<a href="https://github.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Somewhere+between+a+nerd+and+a+geek;Sempre+curioso+o+suficiente+para+construir+algo+novo;Full+Stack+Developer+em+constru%C3%A7%C3%A3o" alt="Typing SVG" /></a>
 
 <br>
 
-<a href="#pt-br"><img src="https://img.shields.io/badge/Português-BR-009c3b?style=for-the-badge" alt="Versão em Português"></a>
-<a href="#en"><img src="https://img.shields.io/badge/English-US-002868?style=for-the-badge" alt="English version"></a>
+<a href="#portugues"><img src="https://img.shields.io/badge/Português-009c3b?style=for-the-badge" alt="Versão em Português"></a>
+<a href="#english"><img src="https://img.shields.io/badge/English-002868?style=for-the-badge" alt="English version"></a>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,html,css,react,express,mongodb,git,github,linux,vscode,postman" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,html,css,react,express,mongodb,postgres,go,git,github,linux,vscode,postman,idea,datagrip" alt="Tech stack" />
 
-</div>
+<br><br>
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Atlassian-0052CC?style=flat-square&logo=atlassian&logoColor=white" alt="Atlassian">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%">
+
+</div>
+
 ---
 
-<a id="pt-br"></a>
+<a id="portugues"></a>
 
 ## Português
 
-<p align="center"><i>Clique acima para ler em <a href="#en">English</a></i></p>
+<p align="center"><i>Clique acima para ler em <a href="#english">English</a></i></p>
 
 Sou um desenvolvedor apaixonado por tecnologia, atualmente construindo minha jornada no mundo do software com uma ideia simples em mente: a tecnologia só faz sentido quando consegue transformar problemas reais em soluções reais.
 
@@ -120,11 +127,11 @@ Ainda não sei exatamente onde essa jornada vai terminar. Mas sei exatamente com
 
 ---
 
-<a id="en"></a>
+<a id="english"></a>
 
 ## English
 
-<p align="center"><i>Click above to read in <a href="#pt-br">Português</a></i></p>
+<p align="center"><i>Click above to read in <a href="#portugues">Português</a></i></p>
 
 I am a developer passionate about technology, currently building my journey in the world of software with a simple idea in mind: technology only makes sense when it can turn real problems into real solutions.
 
@@ -226,5 +233,9 @@ I still don't know exactly where this journey will end. But I know exactly how I
 **A journey of a thousand projects starts with one idea.**
 
 <sub>Thank you for getting to know a bit of the person behind the commits.</sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
 
 </div>
