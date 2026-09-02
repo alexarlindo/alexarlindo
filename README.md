@@ -4,7 +4,8 @@
 
 <br><br>
 
-<img src="https://images.weserv.nl/?url=github.com/user-attachments/assets/de95316f-5ddc-46ae-a0c6-beadd623ad75&w=280&h=280&fit=cover&mask=circle&maxage=7d" width="160" height="160" alt="HD" />
+<img src="<img width="1086" height="1448" alt="WhatsApp Image 2026-08-30 at 19 53 22" src="https://github.com/user-attachments/assets/bea3868a-6359-41f8-b705-566b46a97b7c" />
+&w=280&h=280&fit=cover&mask=circle&maxage=7d" width="160" height="160" alt="HD" />
 
 ### HD ツ
 
